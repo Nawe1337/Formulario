@@ -110,7 +110,7 @@ message:''
         </label>
        
         <select htmlFor='localidad' name ='localidad' value={user.localidad} onChange={capturarImputs} >
-        <option  htmlFor='localidad'name ='localidad' value="" required>Seleccionar</option>
+        <option  htmlFor='localidad'name ='localidad' value="" required></option>
         <option   htmlFor='localidad'name ='localidad' value="Buenos Aires" required>Buenos Aires</option>
           <option   htmlFor='localidad'name ='localidad' value="Entre Rios" required>Entre Rios</option>
           <option   htmlFor='localidad'name ='localidad' value="Cordoba" required>Cordoba</option>

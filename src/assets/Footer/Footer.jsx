@@ -12,7 +12,7 @@ export default function Footer() {
   <img className="icono" src={t} alt="" />
 </a>
 
-<a href="https://www.facebook.com/segurosyuju" className="imagen-link">
+<a href="https://www.facebook.com/NimbusBroker?_rdc=1&_rdr" className="imagen-link">
   <img  className='icono' src={f} alt="" />
 </a>
 
@@ -20,11 +20,11 @@ export default function Footer() {
   <img className="icono" src={l} alt="" />
 </a>
 
-<a href="https://www.instagram.com/segurosyuju/" className="imagen-link">
+<a href="https://www.instagram.com/nimbusseguros/?igsh=MTJzMHNocG4yNTg1Zg%3D%3D" className="imagen-link">
   <img className="icono" src={ii} alt="" />
 </a>
 
-<a href="https://yuju.com.ar/" className="imagen-link">
+<a href="https://segurosnimbus.com/" className="imagen-link">
   <img className=" icono" src={w} alt="" />
 </a>
 

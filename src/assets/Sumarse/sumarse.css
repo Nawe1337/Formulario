@@ -15,7 +15,7 @@ object-fit: fill;
        width: 60%; /* Establece el ancho del contenedor */
         color: grey;
         font-size: large;
-        margin-top: -270px;
+        margin-top: -256px;
         margin-left:  2%;
         font-family: 'Open Sans', sans-serif;
         margin-bottom: 50px;
@@ -23,7 +23,9 @@ object-fit: fill;
  
 }
 
-h2{
+h2{ 
+  margin-top: -10px;
+  margin-bottom: -10px;
   font-family: 'Open Sans', sans-serif;
     margin-left:  2%;
     font-size: xx-large;
@@ -39,10 +41,10 @@ button{
     margin-left:  2%;
     margin-top: 60px;
     width: 230px;
-    height: 2rem;
+    height: 40px;
     border-radius: 26px;
     border: none;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.5);
     cursor: pointer;
  
 }

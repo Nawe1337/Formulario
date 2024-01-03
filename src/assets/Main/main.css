@@ -18,7 +18,8 @@ grid-template-columns: auto auto auto auto auto;
 }
 
 .trabajo{
-
+    margin-bottom: -40px;
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
 }
 
