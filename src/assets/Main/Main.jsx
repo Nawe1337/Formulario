@@ -5,7 +5,6 @@ import fp from '../img/Logo-Federacion-Patronal.png'
 import es from '../img/Logo-Experta.png'
 import ma from '../img/Logo-Mercantil.png'
 import m from '../img/Logo-Mapfre.png'
-import arm from '../img/Logo-Art-Mutual-Rural.png'
 import a from '../img/Logo-Asociart.png'
 import hdi from '../img/Logo-HDI.png'
 import atm from '../img/Logo-ATM.png'
@@ -32,7 +31,6 @@ Trabajá con las compañías líderes del mercado
 <img className="LogosAseguradoras" src={es} alt="" />
 <img className="LogosAseguradoras" src={ma} alt="" />
 <img className="LogosAseguradoras" src={m} alt="" />
-<img className="LogosAseguradoras" src={arm} alt="" />
 <img className="LogosAseguradoras" src={a} alt="" />
 <img className="LogosAseguradoras" src={hdi} alt="" />
 <img className="LogosAseguradoras" src={atm} alt="" />
